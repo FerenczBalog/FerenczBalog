@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerenczBalog
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on web developing and web design projects
 - 📫 You can reach me at balogferencz.artist@gmail.com
 
